@@ -1,4 +1,8 @@
-led / optimized / DLL files
+# training data
+emo_data/fintune_imgs/finetune_imgs1/
+emo_data/fintune_imgs/finetune_imgs2/
+
+# led / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
